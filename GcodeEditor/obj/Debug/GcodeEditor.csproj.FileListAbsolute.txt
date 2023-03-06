@@ -1,0 +1,15 @@
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\bin\Debug\GcodeEditor.exe
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\bin\Debug\GcodeEditor.pdb
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.csprojResolveAssemblyReference.cache
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.MainForm.resources
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.csproj.GenerateResource.Cache
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.exe
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.pdb
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\bin\Debug\GcodeEditor.exe
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\bin\Debug\GcodeEditor.pdb
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.csprojResolveAssemblyReference.cache
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.MainForm.resources
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.csproj.GenerateResource.Cache
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.exe
+C:\Users\Design\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.pdb
+C:\Users\linea\Google Drive\SharpDevelop Projects\GcodeEditor\GcodeEditor\obj\Debug\GcodeEditor.Prompt.resources
